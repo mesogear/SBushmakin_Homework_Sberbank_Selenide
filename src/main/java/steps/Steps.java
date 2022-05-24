@@ -1,4 +1,4 @@
-package ru.bellintegrator.test;
+package steps;
 
 import com.codeborne.selenide.Configuration;
 

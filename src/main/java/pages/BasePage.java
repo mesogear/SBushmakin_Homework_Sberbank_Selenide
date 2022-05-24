@@ -1,4 +1,4 @@
-package ru.bellintegrator.test;
+package pages;
 
 /**
  * Базовый абстрактный класс, от которого наследуются все классы PageObject

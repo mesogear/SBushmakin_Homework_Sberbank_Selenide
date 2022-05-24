@@ -1,6 +1,8 @@
-package ru.bellintegrator.test;
+package steps;
 
 import cucumber.api.java.ru.*;
+import pages.SberMainPage;
+import pages.SberSearchResultsPage;
 
 import static com.codeborne.selenide.Selenide.open;
 import static java.lang.Integer.parseInt;
