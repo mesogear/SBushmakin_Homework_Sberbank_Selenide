@@ -1,4 +1,4 @@
-package ru.bellintegrator.test;
+package pages;
 
 import com.codeborne.selenide.Condition;
 import io.qameta.allure.Allure;
